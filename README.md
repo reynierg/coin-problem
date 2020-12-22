@@ -24,7 +24,7 @@ For execute the program
 ===================
 1. The part1 script could be executed using the following command:\
 `python3 part1.py 2.88`\
-   You can substitute 2.54 by whatever number of your election
+   You can substitute 2.88 by whatever number of your election
   
 
 2. The part2 script could be executed using the following command:\
